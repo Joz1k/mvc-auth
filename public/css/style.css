@@ -1,0 +1,9 @@
+.is_account {
+    --bs-btn-font-size: 0.8rem !important;
+    --bs-btn-font-weight: 300 !important;
+}
+
+.block {
+    display: block;
+    width: 100%;
+}
